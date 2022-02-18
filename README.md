@@ -9,4 +9,5 @@ How to make it better
 * We need trusted developers to make tweaks
 * We need a trusted jailbreak @unc0veTeam , @OdysseyTeam , @checkra1n
 * We need to follow Apple Privacy Policy https://www.apple.com/privacy/
-* 
+* We need to respect developers
+* We need a Trusted JB News Team @iOSNJB
