@@ -15,3 +15,6 @@ How to make it better
 * We need to Stay UpToDate
 * We Dont need more scam repo and tweaks
 * developers need to respect user data
+
+
+I'm Planing On Continuing
