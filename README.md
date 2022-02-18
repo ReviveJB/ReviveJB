@@ -12,7 +12,7 @@ How to make it better
 * We need to respect developers
 * We need a trusted JB News Source @iOSNJB
 * We need a trusted YouTuber https://www.youtube.com/channel/UCAc5-CySN7SKYiNPznLIflQ
-* We need to Stay UpToDate
+* We need to Keep Tweaks UpToDate
 * We Dont need more scam repo and tweaks
 * developers need to respect user data
 
