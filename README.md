@@ -10,4 +10,8 @@ How to make it better
 * We need a trusted jailbreak @unc0veTeam , @OdysseyTeam , @checkra1n
 * We need to follow Apple Privacy Policy https://www.apple.com/privacy/
 * We need to respect developers
-* We need a Trusted JB News Team @iOSNJB
+* We need a trusted JB News Source @iOSNJB
+* We need a trusted YouTuber https://www.youtube.com/channel/UCAc5-CySN7SKYiNPznLIflQ
+* We need to Stay UpToDate
+* We Dont need more scam repo and tweaks
+* developers need to respect user data
